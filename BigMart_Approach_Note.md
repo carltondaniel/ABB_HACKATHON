@@ -41,4 +41,4 @@ Best performance was achieved using a deep MLP architecture with:
 Models were evaluated using RMSE and MAPE on validation sets. Stratified KFold validation was used for robustness. Outliers were removed before final training to reduce prediction error.
 
 5. Results
-Our best performing MLP model achieved a leaderboard score of X.XXXX with a rank of ###, significantly outperforming baseline models.
+Our best performing MLP model achieved a leaderboard score of 1147.4292415280 with a rank of 370 significantly outperforming baseline models.
